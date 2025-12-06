@@ -1,0 +1,12 @@
+{
+    "model_name": "xlm-roberta-base",
+    "num_classes": 3,
+    "class_mapping": {
+        "0": "hate",
+        "1": "normal",
+        "2": "offensive"
+    },
+    "training_date": "2025-12-06 06:49:02",
+    "test_accuracy": 0.7220394736842105,
+    "best_val_accuracy": 0.7489035087719298
+}
